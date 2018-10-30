@@ -1,3 +1,4 @@
+
 function Paddle (loc, vel, width,length,col){
   this.loc = loc;
   this.vel = vel;
